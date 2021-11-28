@@ -6,6 +6,7 @@ Item {
     height: Constants.height
 
     RideView {
+        color: "#000000"
     }
 
 }
