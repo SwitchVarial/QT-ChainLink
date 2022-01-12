@@ -1,2 +1,2 @@
 # QT-ChainLink
-QT Design Studion hsrjoittelua
+QT Design Studion harjoittelua
